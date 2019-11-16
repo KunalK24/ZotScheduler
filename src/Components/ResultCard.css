@@ -1,0 +1,9 @@
+.Card {
+    border-style: solid;
+    border-width: medium;
+}
+
+.CardHeader {
+    border-style: solid;
+    border-width: small;
+}

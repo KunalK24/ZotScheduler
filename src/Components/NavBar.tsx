@@ -31,7 +31,7 @@ class NavBar extends React.Component<Props, State>{
     }
 
     handleSchedulerScreenChange() {
-        console.log("HI")
+        console.log("Hi")
     }
 
     render() {
